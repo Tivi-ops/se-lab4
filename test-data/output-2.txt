@@ -1,0 +1,2 @@
+No ship has been initialized
+Unknown command: 'RWDGV3R'
